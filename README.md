@@ -1,2 +1,3 @@
 # demo-repo
-This Is First Repository. 
+This Is My First Git Repository.
+Author - Shivam Kumar
